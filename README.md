@@ -45,7 +45,7 @@ heroku/nodejs
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/DGXeon/DogeBot.git
+🦄 git clone https://github.com/umashankar3/DogeBot.git
 🦄 cd DogeBot
 🦄 npm start
 ```
@@ -61,7 +61,7 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/DGXeon/DogeBot
+🦄 git clone https://github.com/umashankar3/DogeBot
 🦄 cd DogeBot
 🦄 ls
 🦄 rm -rf session.json
@@ -73,7 +73,7 @@ heroku/nodejs
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+916909137213"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+917489934326"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
@@ -81,8 +81,8 @@ My Whatsapp Group👇
  <a href="https://chat.whatsapp.com/G3a3AQndqS5J45eD7zznXF"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-* [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
+* [`My Youtube Channel`](https://youtube.com/c/UIFACTS)
 
 # Thanks To
-* [`Baileys`](https://github.com/adiwajshing/Baileys)
+* [`Baileys`](https://github.com/adiwajshing/)
 * [`Xeon`](https://github.com/DGXeon)
